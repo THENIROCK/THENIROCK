@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THENIROCK
 - 👀 I’m interested in how to leverage artificial intelligence to make our learning more efficient!
 - 🌱 Currently a CS-Physics major at Harvey Mudd College :)
-- 💞️ Looking to collaborate on AI-powered self-learning tools (I really want to teach myself string theory!).
+- 💞️ Looking to collaborate on AI-powered self-learning tools.
 - 📫 You can reach me at korinaldamtajima@gmail.com
 
 Some fun projects:
